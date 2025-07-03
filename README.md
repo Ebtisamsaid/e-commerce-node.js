@@ -51,3 +51,8 @@ git clone https://github.com/Ebtisamsaid/e-commerce-node.js.git
 # Install dependencies
 npm install
 
+
+
+postman apis
+https://documenter.getpostman.com/view/37379195/2sB34bLNyP
+
